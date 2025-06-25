@@ -28,7 +28,7 @@
 
 - Miyai, Atsuyuki, et al. "Locoop: Few-shot out-of-distribution detection via prompt learning." Advances in Neural Information Processing Systems 36 (2023): 76298-76310. 
 
-- Lafon, Marc, et al. "Gallop: Learning global and local prompts for vision-language models." European Conference on Computer Vision. Springer, Cham, 2025. 
+- Lafon, Marc, et al. "Gallop: Learning global and local prompts for vision-language models." European Conference on Computer Vision. Springer, Cham, 2024. 
 
 - Bai, Sikai, et al. "Diprompt: Disentangled prompt tuning for multiple latent domain generalization in federated learning." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. 
 
@@ -42,7 +42,7 @@
 
 - Li, Deng, et al. "Prompt-driven dynamic object-centric learning for single domain generalization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. 
 
-- Bai, Shuanghao, et al. "Soft prompt generation for domain generalization." European Conference on Computer Vision. Springer, Cham, 2025. 
+- Bai, Shuanghao, et al. "Soft prompt generation for domain generalization." European Conference on Computer Vision. Springer, Cham, 2024. 
 
 
 
