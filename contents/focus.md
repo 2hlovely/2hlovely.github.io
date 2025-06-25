@@ -1,11 +1,49 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+## Zero-Shot Domain Generalization
+- Mancini, Massimiliano, et al. "Towards recognizing unseen categories in unseen domains." European Conference on Computer Vision. Cham: Springer International Publishing, 2020. 
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+## Prompt-Learning
+- Zhou, Kaiyang, et al. "Learning to prompt for vision-language models." International Journal of Computer Vision 130.9 (2022): 2335-2358. 
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Khattak, Muhammad Uzair, et al. "Maple: Multi-modal prompt learning." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023. 
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Shu, Manli, et al. "Test-time prompt tuning for zero-shot generalization in vision-language models." Advances in Neural Information Processing Systems 35 (2022): 14274-14289. 
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Feng, Chun-Mei, et al. "Diverse data augmentation with diffusions for effective test-time prompt tuning." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. 
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+## Domain Generalization
+- Wang, Jindong, et al. "Generalizing to unseen domains: A survey on domain generalization." IEEE transactions on knowledge and data engineering 35.8 (2022): 8052-8072. 
+
+- Shu, Yang, et al. "Clipood: Generalizing clip to out-of-distributions." International Conference on Machine Learning. PMLR, 2023. 
+
+- Zhang, Yabin, et al. "Dual memory networks: A versatile adaptation approach for vision-language models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2024. 
+
+- Hu, Jiajun, et al. "Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024. 
+
+- Addepalli, Sravanti, et al. "Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. 
+
+- Chen, Zining, et al. "Practicaldg: Perturbation distillation on vision-language models for hybrid domain generalization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. 
+
+## Prompt-Driven Domain Generalization
+- Zhou, Kaiyang, et al. "Conditional prompt learning for vision-language models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022. 
+
+- Miyai, Atsuyuki, et al. "Locoop: Few-shot out-of-distribution detection via prompt learning." Advances in Neural Information Processing Systems 36 (2023): 76298-76310. 
+
+- Lafon, Marc, et al. "Gallop: Learning global and local prompts for vision-language models." European Conference on Computer Vision. Springer, Cham, 2025. 
+
+- Bai, Sikai, et al. "Diprompt: Disentangled prompt tuning for multiple latent domain generalization in federated learning." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. 
+
+- Zhou, Guanglin, et al. "Hcvp: Leveraging hierarchical contrastive visual prompt for domain generalization." IEEE Transactions on Multimedia (2024). 
+
+- Fahes, Mohammad, et al. "Poda: Prompt-driven zero-shot domain adaptation." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. 
+
+- Cho, Junhyeong, et al. "Promptstyler: Prompt-driven style generation for source-free domain generalization." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. 
+
+- Qi, Daiqing, et al. "Generalizing to Unseen Domains via Text-Guided Augmentation: A Training-Free Approach." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024. 
+
+- Li, Deng, et al. "Prompt-driven dynamic object-centric learning for single domain generalization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. 
+
+- Bai, Shuanghao, et al. "Soft prompt generation for domain generalization." European Conference on Computer Vision. Springer, Cham, 2025. 
+
+
+
+
