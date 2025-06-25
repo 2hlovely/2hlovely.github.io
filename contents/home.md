@@ -5,7 +5,7 @@
 I am currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, Guizhou University, China.
 
 #### Email
-2hlovelyrui[at]google.com
+2hlovelyrui[at]gmail.com
 
 #### Education
 M.E., Computer Science and Technology, Guizhou University, 2024—2027 (expected).\
