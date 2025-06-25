@@ -604,7 +604,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -1577,6 +1577,12 @@ progress {
   .gy-xl-5 {
     --bs-gutter-y: 3rem;
   }
+}
+
+/* 增加导航菜单项的间距 */
+.navbar-nav .nav-item {
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 @media (min-width: 1400px) {
   .col-xxl {
