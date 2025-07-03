@@ -1,6 +1,10 @@
 ## Zero-Shot Domain Generalization
 - Mancini, Massimiliano, et al. "Towards recognizing unseen categories in unseen domains." European Conference on Computer Vision. Cham: Springer International Publishing, 2020. 
 
+- Udit Maniyar, et al. "Zero Shot Domain Generalization." British Machine Vision Conference, 2020.
+
+- Mondal, Biswajit, and Soma Biswas. "Seic: Semantic embedding with intermediate classes for zero-shot domain generalization." Proceedings of the Asian Conference on Computer Vision. 2022.
+
 ## Prompt-Learning
 - Zhou, Kaiyang, et al. "Learning to prompt for vision-language models." International Journal of Computer Vision 130.9 (2022): 2335-2358. 
 
@@ -23,7 +27,7 @@
 
 - Chen, Zining, et al. "Practicaldg: Perturbation distillation on vision-language models for hybrid domain generalization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. 
 
-## Prompt-Driven Domain Generalization
+## Domain Generalizaion Based on VLMs(Prompt learning and fine-tuning VLMs)
 - Zhou, Kaiyang, et al. "Conditional prompt learning for vision-language models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022. 
 
 - Miyai, Atsuyuki, et al. "Locoop: Few-shot out-of-distribution detection via prompt learning." Advances in Neural Information Processing Systems 36 (2023): 76298-76310. 
@@ -44,6 +48,13 @@
 
 - Bai, Shuanghao, et al. "Soft prompt generation for domain generalization." European Conference on Computer Vision. Springer, Cham, 2024. 
 
+## Source-Free Domain Generalization(Similarly based on VLMs, but listed separately.)
+- Cho, Junhyeong, et al. "Promptstyler: Prompt-driven style generation for source-free domain generalization." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
 
+- Tang, Song, et al. "Source-free domain adaptation with frozen multimodal foundation model." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [P.S. Source-Free Domain Generalization(SFDA)]
 
+- Zhang, Haoran, et al. "Promptta: Prompt-driven text adapter for source-free domain generalization." ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025.
 
+- Xu, Xiusheng, et al. "BatStyler: Advancing Multi-category Style Generation for Source-free Domain Generalization." IEEE Transactions on Circuits and Systems for Video Technology (2025).
+
+- Tang, Yunlong, et al. "DPStyler: dynamic promptstyler for source-free domain generalization." IEEE Transactions on Multimedia (2025).
