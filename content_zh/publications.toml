@@ -1,0 +1,4 @@
+type = "publication"
+title = "代表性论文"
+description = "我的代表性研究成果。"
+source = "publications.bib"

@@ -1,0 +1,4 @@
+type = "publication"
+title = "Collaborative Publications"
+description = "Selected publications from research collaborations."
+source = "publications.bib"

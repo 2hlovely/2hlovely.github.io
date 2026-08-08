@@ -1,0 +1,36 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Zero-Shot Learning",
+  "Domain Generalization",
+  "Vision-Language Learning"
+]
+
+[[profile.timeline]]
+period = "2024 — Present"
+institution = "Guizhou University"
+role = "Master's Student"
+
+[[profile.timeline]]
+period = "2019 — 2023"
+institution = "Tiangong University"
+role = "Bachelor's Degree"
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"

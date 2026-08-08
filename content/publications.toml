@@ -1,0 +1,4 @@
+type = "publication"
+title = "Selected Publications"
+description = "A selection of my representative research publications."
+source = "publications.bib"

@@ -1,0 +1,36 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "零样本学习",
+  "领域泛化",
+  "视觉-语言学习"
+]
+
+[[profile.timeline]]
+period = "2024 — 至今"
+institution = "贵州大学"
+role = "硕士研究生"
+
+[[profile.timeline]]
+period = "2019 — 2023"
+institution = "天津工业大学"
+role = "学士"
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "动态"
+source = "news.toml"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "精选论文"
